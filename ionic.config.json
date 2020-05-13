@@ -1,0 +1,7 @@
+{
+  "name": "escaner",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
